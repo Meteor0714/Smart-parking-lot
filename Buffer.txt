@@ -1,0 +1,2 @@
+{'update_time': DatetimeWithNanoseconds(2023, 6, 6, 6, 48, 46, 260000, tzinfo=datetime.timezone.utc), 'car': 6, 'bicycle': 0, 'occupied': 0, 'capacity': 30, 'person': 0} 
+ 2024-05-18 10:15:33 AM

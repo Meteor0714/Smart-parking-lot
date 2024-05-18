@@ -1,0 +1,11 @@
+humanityCenter 0   
+activityCenter 1  
+badeRd 1
+chingkuoStadium 0
+firstAssemblyBuilding 0  
+fourthClassroomBuilding 0  
+parkingGarage 0     
+secondAssemblyBuilding 0 
+thirdAssemblyBuilding 0    
+thirdClassroomBuilding 0   
+zhangchunRd 0          

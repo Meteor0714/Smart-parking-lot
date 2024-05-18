@@ -1,0 +1,7 @@
+python detect.py --weights runs\train\yolov7_Max3\best.pt --source 0 --device cpu --view-img --save-txt --save-conf --conf 0.45  --location badeRd --wait_time 20
+攝影機網址:
+        http://{用戶名}:{密碼}@IP:Port號
+    ex: http:admin:admin@192.168.123.58:8081/
+
+
+autoRun.py   請設定好攝影機檔(IPCAM資料夾)直接運行autoRun即可

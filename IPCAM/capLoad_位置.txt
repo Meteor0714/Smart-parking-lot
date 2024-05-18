@@ -1,0 +1,11 @@
+humanityCenter 0            (人文大樓)   出入口座標 23.702517, 120.432607
+activityCenter 0            (學生活動中心)        23.702927, 120.430354
+badeRd 1                    (八德街)             23.701955, 120.428285
+chingkuoStadium 1           (經國館)             23.701827, 120.431159
+firstAssemblyBuilding 0     (綜一館後)           23.701971, 120.430811
+fourthClassroomBuilding 0   (四期教學大樓)       23.703160, 120.430288
+parkingGarage 0             (學校立體停車場)           
+secondAssemblyBuilding 0    (綜二館)            23.703831, 120.430220
+thirdAssemblyBuilding 0     (綜三館)            23.703760, 120.431354(兩處出入口)近學校側
+thirdClassroomBuilding 0    (三期教學大樓)       23.703908, 120.429983(兩處出入口)近學校側
+zhangchunRd 1               (長春路)            人行道
